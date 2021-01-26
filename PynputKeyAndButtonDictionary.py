@@ -27,7 +27,7 @@ keyDictionary = {
     "Key.down":Key.down,
     "Key.end":Key.end,
     "Key.enter":Key.enter,
-    "Key.escape":Key.escape,
+    "Key.esc":Key.esc,
     "Key.f1":Key.f1,
     "Key.f2":Key.f2,
     "Key.f3":Key.f3,
